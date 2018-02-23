@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require_relative 'make_sandwich'
+puts make_sandwich(type: 'cheese', number_of_sandwiches: 2)
